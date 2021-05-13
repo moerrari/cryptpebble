@@ -63,7 +63,7 @@ var $currentDecimalMode = 0;
 
 // CoinMarketCapのサポート (true / false)
 
-var $supportCoinMarketCap = true;
+var $supportCoinMarketCap = false;
 
 // ---------------------------------------------------
 // 以下処理部
